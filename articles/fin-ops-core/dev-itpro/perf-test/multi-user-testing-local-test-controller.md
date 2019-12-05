@@ -134,7 +134,7 @@ Before you complete the steps in this topic, verify that the following prerequis
 
     [![Updated CloudEnvironment.config file](./media/multi-user-test-local-10.png)](./media/multi-user-test-local-10.png)
 
-4. Configure **vsonline.testsettings**. In the **Test Settings** dialog box, on the **General** tab, in the **Test run Location** field group, select the **Run tests using local computer or a test controller** option.
+4. In your solution files, double-click the **vsonline.testsettings** file to modify the test settings. In the **Test Settings** dialog box, on the **General** tab, in the **Test run Location** field group, select the **Run tests using local computer or a test controller** option.
 
     [![General tab of the Test Settings dialog box](./media/multi-user-test-local-11.png)](./media/multi-user-test-local-11.png)
 
